@@ -39,5 +39,10 @@ public class CompanyEntity {
     @CreationTimestamp
     private LocalDateTime createdAt;
 
+	public Object orElseThrow(Object object) {
+		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException("Unimplemented method 'orElseThrow'");
+	}
+
 
 }
