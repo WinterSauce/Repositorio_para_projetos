@@ -1,0 +1,5 @@
+br\com\henriquefonseca\projeto_de_gestao_vagas\Exceptions\ErrorMessageDTO.class
+br\com\henriquefonseca\projeto_de_gestao_vagas\ProjetoDeGestaoVagasApplication.class
+br\com\henriquefonseca\projeto_de_gestao_vagas\Modules\Candidato\Controllers\CandidatoController.class
+br\com\henriquefonseca\projeto_de_gestao_vagas\Exceptions\ExceptionHandlerController.class
+br\com\henriquefonseca\projeto_de_gestao_vagas\Modules\Candidato\CandidatoEntity.class
